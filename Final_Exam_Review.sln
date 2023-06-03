@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Final_Exam_Review", "Final_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch6_p23", "..\Ch6_p23\Ch6_p23.vcxproj", "{4AA0E849-C574-4C89-B24F-5A639757F64F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch6_p27", "..\Ch6_p27\Ch6_p27.vcxproj", "{20C218EB-FFCD-4121-9C65-684844DF0F48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{4AA0E849-C574-4C89-B24F-5A639757F64F}.Release|x64.Build.0 = Release|x64
 		{4AA0E849-C574-4C89-B24F-5A639757F64F}.Release|x86.ActiveCfg = Release|Win32
 		{4AA0E849-C574-4C89-B24F-5A639757F64F}.Release|x86.Build.0 = Release|Win32
+		{20C218EB-FFCD-4121-9C65-684844DF0F48}.Debug|x64.ActiveCfg = Debug|x64
+		{20C218EB-FFCD-4121-9C65-684844DF0F48}.Debug|x64.Build.0 = Debug|x64
+		{20C218EB-FFCD-4121-9C65-684844DF0F48}.Debug|x86.ActiveCfg = Debug|Win32
+		{20C218EB-FFCD-4121-9C65-684844DF0F48}.Debug|x86.Build.0 = Debug|Win32
+		{20C218EB-FFCD-4121-9C65-684844DF0F48}.Release|x64.ActiveCfg = Release|x64
+		{20C218EB-FFCD-4121-9C65-684844DF0F48}.Release|x64.Build.0 = Release|x64
+		{20C218EB-FFCD-4121-9C65-684844DF0F48}.Release|x86.ActiveCfg = Release|Win32
+		{20C218EB-FFCD-4121-9C65-684844DF0F48}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
