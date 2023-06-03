@@ -28,4 +28,5 @@ int main() {
 	p = &pizza;
 	cout << p->getArea() << endl;
 	cout << (*p).getArea() << endl;
+
 }
